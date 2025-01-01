@@ -1,4 +1,4 @@
-# World Layoff Data Cleaning and Analysis
+# World Layoff Data Cleaning and Analysis in MYSQL
 
 This project demonstrates data cleaning and exploratory data analysis (EDA) on a dataset of global layoffs. Using SQL, duplicate entries are removed, data is standardized, missing or null values are addressed, and irrelevant columns are dropped. Finally, EDA is performed to extract insights such as the industries, companies, and countries most affected by layoffs, and trends over time.
 
@@ -49,7 +49,7 @@ Performed EDA to uncover trends and insights:
 
 ## SQL Queries
 
-The complete SQL code for data cleaning and EDA is available in the repository under the file `layoffs_analysis.sql`. It contains structured queries for each step outlined above.
+The complete SQL code for data cleaning and EDA is available in the repository under the file `MySQL Data Cleaning.sql` and `MySQL Exploratory Data Analysis.sql`. It contains structured queries for each step outlined above.
 
 ## Insights
 
@@ -73,10 +73,6 @@ Here are some key insights derived from the analysis:
 
 4. **View Results:**
    - Use `SELECT` statements at the end of the SQL file to inspect cleaned data and insights.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
